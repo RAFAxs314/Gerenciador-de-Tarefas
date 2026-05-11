@@ -92,8 +92,26 @@ O design visual do aplicativo foi inspirado no layout **"Todo List App Clean & M
 git clone https://github.com/RAFAxs314/Gerenciador-de-Tarefas.git
 ```
 
-👥 Desenvolvedores
-Nomes:
-Rafael Expedito
-João Pedro
-Diego Magno
+## 👥 Desenvolvedores
+
+| Nome | GitHub |
+|------|--------|
+| **Rafael Expedito** | [@RAFAxs314](https://github.com/RAFAxs314) |
+| **João Pedro** | [@joaopedro](https://github.com/) |
+| **Diego Magno** | [@diegomagno](https://github.com/) |
+
+---
+
+## 📊 Status do Projeto
+
+✅ **Concluído** – Todos os requisitos mínimos e funcionais foram implementados.
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos. Não possui licença de uso comercial.
+
+---
+
+**⭐ Se gostou do projeto, deixe uma estrela no repositório!**
