@@ -89,14 +89,26 @@ O design visual do aplicativo foi inspirado no layout **"Todo List App Clean & M
 ```bash
 git clone https://github.com/RAFAxs314/Gerenciador-de-Tarefas.git
 ```
-👥 Desenvolvedores e suas contribuições
-Membro	Telas/Componentes desenvolvidos
-Rafael Expedito	Tela de Login, Tela de Criar Conta, Context API (gerenciamento das tarefas)
-João Pedro	Tela Principal, Tela Adicionar Tarefa
-Diego Magno	Tela de Detalhes, Tela Configurações
-📊 Status do Projeto
-✅ Concluído – Todos os requisitos mínimos e funcionais foram implementados.
+## 👥 Desenvolvedores e suas contribuições
 
-📄 Licença
+| Membro | Telas/Componentes desenvolvidos |
+|--------|--------------------------------|
+| **Rafael Expedito** | Tela de Login, Tela de Criar Conta, Context API (gerenciamento das tarefas) |
+| **João Pedro** | Tela Principal, Tela Adicionar Tarefa |
+| **Diego Magno** | Tela de Detalhes, Tela Configurações |
+
+---
+
+## 📊 Status do Projeto
+
+✅ **Concluído** – Todos os requisitos mínimos e funcionais foram implementados.
+
+---
+
+## 📄 Licença
+
 Este projeto foi desenvolvido para fins acadêmicos. Não possui licença de uso comercial.
 
+---
+
+**⭐ Se gostou do projeto, deixe uma estrela no repositório!**
