@@ -39,7 +39,6 @@ Com uma interface limpa e moderna, o app permite que você crie, edite, acompanh
 |------------------|----------|---------------|
 | ![Adicionar](./prints/adicionar.png) | ![Detalhes](./prints/detalhes.png) | ![Configurações](./prints/configuracoes.png) |
 
-> *As imagens acima devem ser adicionadas na pasta `prints/` do repositório.*
 
 ---
 
