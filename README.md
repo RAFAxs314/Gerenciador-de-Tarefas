@@ -88,7 +88,7 @@ O design visual do aplicativo foi inspirado no layout **"Todo List App Clean & M
 ### Passos
 
 1. **Clone o repositório**
-```bash
+
 git clone https://github.com/RAFAxs314/Gerenciador-de-Tarefas.git
 
 ## 👥 Desenvolvedores
