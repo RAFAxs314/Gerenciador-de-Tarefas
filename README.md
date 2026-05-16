@@ -93,9 +93,9 @@ git clone https://github.com/RAFAxs314/Gerenciador-de-Tarefas.git
 
 | Membro | Telas/Componentes desenvolvidos |
 |--------|--------------------------------|
-| **Rafael Expedito** | Tela de Login, Tela de Criar Conta, Context API (gerenciamento das tarefas) |
-| **João Pedro** | Tela Principal, Tela Adicionar Tarefa |
-| **Diego Magno** | Tela de Detalhes, Tela Configurações |
+| **Rafael Expedito 01865257** | Tela de Login, Tela de Criar Conta, Context API (gerenciamento das tarefas) |
+| **João Pedro 01864661** | Tela Principal, Tela Adicionar Tarefa |
+| **Diego Magno 01789869** | Tela de Detalhes, Tela Configurações |
 
 ---
 
